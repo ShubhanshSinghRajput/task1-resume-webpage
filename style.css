@@ -22,7 +22,7 @@ html,body{
     background-color:  rgb(70, 6, 221);
     color: #fff;
     height: 100px;
-    font-weight:;
+    font-weight: 0;
 }
 .name h5{
     padding: 5px;
